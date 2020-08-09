@@ -1,0 +1,12 @@
+# Created at 2020-04-17T10:08:43.940
+Unexpected IOException with stream: 2020-04-17 10:08:43,935 INFO  utility.callAPISSL (callAPISSL.java:call(75)) - Error records :401 :: Unauthorized :: {"contactGuid":"","contactId":"","contactEmail":"13357128515@mtong.com","contactFirstName":"浩","companyName":"浙江明通科技有限公司","companyGuid":"","contactJobTitle":"","companyWebAddress":"www.mtong.com","recordId":"114340232","companyId":"","contactState":"","contactFullName":"","phone":"13357128515","contactLastName":"孙","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+
+
+# Created at 2020-04-17T10:08:43.954
+Unexpected IOException with stream: 2020-04-17 10:08:43,945 INFO  utility.callAPISSL (callAPISSL.java:call(75)) - Error records :401 :: Unauthorized :: {"contactGuid":"","contactId":"","contactEmail":"deanhua@263.net","contactFirstName":"黎","companyName":"上海市音乐学院附中","companyGuid":"","contactJobTitle":"","companyWebAddress":"","recordId":"114340816","companyId":"","contactState":"","contactFullName":"","phone":"","contactLastName":"华","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+
+
+# Created at 2020-04-17T10:08:43.955
+Unexpected IOException with stream: 2020-04-17 10:08:43,944 INFO  utility.callAPISSL (callAPISSL.java:call(75)) - Error records :401 :: Unauthorized :: {"contactGuid":"","contactId":"","contactEmail":"deyun.meng@infineon.com","contactFirstName":"德昀","companyName":"英飞凌科技（中国）有限公司","companyGuid":"","contactJobTitle":"","companyWebAddress":"www.infineon.com","recordId":"114623298","companyId":"","contactState":"","contactFullName":"","phone":"021-61019360","contactLastName":"孟","contactZipcode":"","contactCountry":"","contactMiddleName":""}
+
+

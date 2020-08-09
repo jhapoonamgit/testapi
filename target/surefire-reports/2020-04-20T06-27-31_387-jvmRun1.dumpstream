@@ -1,0 +1,4 @@
+# Created at 2020-04-20T06:54:14.009
+Unexpected IOException with stream: 2020-04-20 06:46:51,789 INFO  utility.callAPISSL (callAPISSL.java:call(75)) - Error records :429 :: null :: {"contactGuid":"","contactId":"","contactEmail":"cfuentes@lenovo.com","contactFirstName":"Cristina","companyName":"LENOVO SPAIN SL","companyGuid":"","contactJobTitle":"Sales Representative","companyWebAddress":"www.lenovo.com","recordId":"SMT-10171","companyId":"","contactState":"","contactFullName":"","phone":"","contactLastName":"Fuentes","contactZipcode":"","contactCountry":"Spain","contactMiddleName":""}
+
+

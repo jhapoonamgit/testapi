@@ -1,0 +1,31 @@
+# Created at 2020-03-27T05:10:52.155
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 500 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T05:10:52.156
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T05:10:52.157
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T05:10:52.157
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T05:10:52.157
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T05:10:52.157
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T05:10:52.158
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T05:10:52.158
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T05:10:52.158
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+

@@ -1,0 +1,6 @@
+2020-06-24 10:33:22,510 [main] INFO  utility.csvSSLRead - Reading file :: G:\smarte\Automation\input\modes.csv
+2020-06-24 10:33:22,541 [main] INFO  utility.csvSSLRead - Thread started :: G:\smarte\Automation\input\modes.csv
+2020-06-24 10:33:26,897 [pool-1-thread-1] INFO  utility.callAPISSL - Success ::
+2020-06-24 10:33:27,730 [pool-1-thread-2] INFO  utility.callAPISSL - Success ::
+2020-06-24 10:33:27,735 [main] INFO  utility.csvSSLRead - Thread complete:: G:\smarte\Automation\input\modes.csv
+2020-06-24 10:33:27,746 [main] INFO  utility.csvSSLRead - Reading file complete:: G:\smarte\Automation\input\modes.csv

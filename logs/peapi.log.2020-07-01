@@ -1,0 +1,6 @@
+2020-07-01 16:12:10,564 [main] INFO  client.DefaultHttpClient - I/O exception (java.net.SocketException) caught when connecting to {s}->https://34.68.215.208:8243: Network is unreachable: connect
+2020-07-01 16:12:10,578 [main] INFO  client.DefaultHttpClient - Retrying connect to {s}->https://34.68.215.208:8243
+2020-07-01 16:12:10,584 [main] INFO  client.DefaultHttpClient - I/O exception (java.net.NoRouteToHostException) caught when connecting to {s}->https://34.68.215.208:8243: No route to host: connect
+2020-07-01 16:12:10,586 [main] INFO  client.DefaultHttpClient - Retrying connect to {s}->https://34.68.215.208:8243
+2020-07-01 16:12:10,589 [main] INFO  client.DefaultHttpClient - I/O exception (java.net.NoRouteToHostException) caught when connecting to {s}->https://34.68.215.208:8243: No route to host: connect
+2020-07-01 16:12:10,592 [main] INFO  client.DefaultHttpClient - Retrying connect to {s}->https://34.68.215.208:8243

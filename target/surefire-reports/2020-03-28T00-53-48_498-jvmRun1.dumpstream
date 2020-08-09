@@ -1,0 +1,4 @@
+# Created at 2020-03-28T00:54:27.971
+Unexpected IOException with stream: [28-54-2020 12:54:27:969] [INFO ] callAPISSL: Server returned HTTP response code: 400 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+

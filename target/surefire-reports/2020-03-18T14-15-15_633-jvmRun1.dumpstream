@@ -1,0 +1,159 @@
+# Created at 2020-03-18T14:15:41.137
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2020-03-18T14:15:41.142
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 429 for URL: https://104.155.144.155:8243/peapi/v1/enrich
+
+# Created at 2020-03-18T14:15:41.142
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.143
+Unexpected IOException with stream: {"contactId":"PersonMB_GS_912020_112489","companyId":"","contactGuid":"","contactFirstName":"John","contactLastName":"Foots","contactFullName":"John Foots","contactEmail":"john.foots@cameronsbrewery.com","contactJobTitle":"","companyGuid":"","companyName":"Camerons Brewery Ltd","contactState":"","contactZipcode":"","contactCountry":"United Kingdom","phone":"","companyWebAddress":""}
+
+
+# Created at 2020-03-18T14:15:41.143
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-18T14:15:41.146
+Unexpected IOException with stream: {"contactId":"PersonMB_GS_912020_112174","companyId":"","contactGuid":"","contactFirstName":"Martin","contactLastName":"SPIELVOGEL","contactFullName":"Martin SPIELVOGEL","contactEmail":"","contactJobTitle":"","companyGuid":"","companyName":"PAGE GROUP","contactState":"","contactZipcode":"","contactCountry":"","phone":"","companyWebAddress":""}
+
+
+# Created at 2020-03-18T14:15:41.146
+Unexpected IOException with stream: {"contactId":"PersonMB_GS_912020_112304","companyId":"","contactGuid":"","contactFirstName":"Patricia","contactLastName":"Nightingale","contactFullName":"Patricia Nightingale","contactEmail":"patricia.nightingale@enterpriseinns.com","contactJobTitle":"","companyGuid":"","companyName":"Ei Group","contactState":"","contactZipcode":"","contactCountry":"United Kingdom","phone":"","companyWebAddress":""}
+
+
+# Created at 2020-03-18T14:15:41.146
+Unexpected IOException with stream: {"contactId":"PersonMB_GS_912020_112475","companyId":"","contactGuid":"","contactFirstName":"Francois","contactLastName":"PARNIERE","contactFullName":"Francois PARNIERE","contactEmail":"francois.parniere@sodetrel.fr","contactJobTitle":"","companyGuid":"","companyName":"IZIVIA (ex-Sodetrel) - Groupe EDF","contactState":"","contactZipcode":"","contactCountry":"France","phone":"","companyWebAddress":""}
+
+
+# Created at 2020-03-18T14:15:41.147
+Unexpected IOException with stream: {"contactId":"PersonMB_GS_912020_112468","companyId":"","contactGuid":"","contactFirstName":"Corinne","contactLastName":"BLAHUTA","contactFullName":"Corinne BLAHUTA","contactEmail":"c.blahuta@transports-capelle.fr","contactJobTitle":"","companyGuid":"","companyName":"CAPELLE","contactState":"","contactZipcode":"","contactCountry":"France","phone":"","companyWebAddress":""}
+
+
+# Created at 2020-03-18T14:15:41.147
+Unexpected IOException with stream: {"contactId":"PersonMB_GS_912020_112347","companyId":"","contactGuid":"","contactFirstName":"Celine","contactLastName":"SCHETTINI EQUILIBRE","contactFullName":"Celine SCHETTINI EQUILIBRE","contactEmail":"celine.schettini@transgourmet.fr","contactJobTitle":"","companyGuid":"","companyName":"TRANSGOURMET","contactState":"","contactZipcode":"","contactCountry":"","phone":"","companyWebAddress":""}
+
+
+# Created at 2020-03-18T14:15:41.148
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.148
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-18T14:15:41.148
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.149
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-18T14:15:41.149
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.149
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:74)
+
+# Created at 2020-03-18T14:15:41.149
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.150
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:1)
+
+# Created at 2020-03-18T14:15:41.150
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.150
+Unexpected IOException with stream: {"contactId":"PersonMB_GS_912020_112547","companyId":"","contactGuid":"","contactFirstName":"Stuart","contactLastName":"Templeton","contactFullName":"Stuart Templeton","contactEmail":"stuart@slack.com","contactJobTitle":"","companyGuid":"","companyName":"Slack","contactState":"","contactZipcode":"","contactCountry":"United Kingdom","phone":"","companyWebAddress":""}
+
+
+# Created at 2020-03-18T14:15:41.151
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-18T14:15:41.151
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.151
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-18T14:15:41.151
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.151
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-18T14:15:41.152
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.152
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-18T14:15:41.152
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.153
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 429 for URL: https://104.155.144.155:8243/peapi/v1/enrich
+
+# Created at 2020-03-18T14:15:41.153
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.153
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-18T14:15:41.154
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.154
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-18T14:15:41.154
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.155
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-18T14:15:41.155
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.155
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:74)
+
+# Created at 2020-03-18T14:15:41.155
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.156
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:1)
+
+# Created at 2020-03-18T14:15:41.156
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.156
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-18T14:15:41.156
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-18T14:15:41.157
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+

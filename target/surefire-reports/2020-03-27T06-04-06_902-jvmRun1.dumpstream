@@ -1,0 +1,1591 @@
+# Created at 2020-03-27T06:04:21.453
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2020-03-27T06:04:21.453
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.454
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.454
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.455
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.455
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.455
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.455
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.455
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.456
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.456
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.456
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.456
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.457
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.457
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.457
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.457
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.457
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.457
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.458
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.458
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.459
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.459
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.459
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.459
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.460
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.460
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.460
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.460
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.461
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.461
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.461
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.461
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.462
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.462
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.462
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.462
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.463
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.463
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.464
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.464
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.464
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.465
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.465
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.465
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.466
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.466
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.466
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.466
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.467
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.467
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.467
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.467
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.468
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.468
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.469
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.469
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.470
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.470
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.470
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.471
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.471
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.471
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.472
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.472
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.472
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.473
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.473
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.473
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.473
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.474
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.474
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.474
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.474
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.475
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.475
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.475
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.476
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.476
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.476
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.477
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.477
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.477
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.478
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.478
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.478
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.478
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.479
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.479
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.479
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.479
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.480
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.480
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.480
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.481
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.481
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.481
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.481
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.482
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.482
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.482
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.483
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.483
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.483
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.484
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.484
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.484
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.484
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.484
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.485
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.485
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.485
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.485
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.486
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.486
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.486
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.486
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.487
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.487
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.487
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.488
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.488
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.488
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.488
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.489
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.489
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.489
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.489
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.490
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.490
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.490
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.490
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.491
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.491
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.491
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.491
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.491
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.492
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.492
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.492
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.493
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.493
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.493
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.494
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.494
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.494
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.494
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.494
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.494
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.494
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.495
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.495
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.495
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.495
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.495
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.495
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.496
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.496
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.496
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.497
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.497
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.497
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.497
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.498
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.498
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.498
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.498
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.498
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.499
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.499
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.499
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.499
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.499
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.500
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.500
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.500
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.500
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.501
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.501
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.501
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.501
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.501
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.502
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.502
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.502
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.502
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.502
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.502
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.503
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.503
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.503
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.503
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.503
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.503
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.503
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.503
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.504
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.504
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.504
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.504
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.504
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.505
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.505
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.505
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.505
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.506
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.506
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.506
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.506
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.506
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.506
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.507
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.507
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.507
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.507
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.507
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.508
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.508
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.508
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.509
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.509
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.509
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.509
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.510
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.510
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.510
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.510
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.510
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.510
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.511
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.511
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.511
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.511
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.511
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.511
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.511
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.511
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.512
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.512
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.526
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.526
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.526
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.526
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.527
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.527
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.527
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.527
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.527
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.528
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.528
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.528
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.528
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.528
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.529
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.529
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.529
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.529
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.530
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.530
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.530
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.530
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.530
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.531
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.531
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.531
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.531
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.531
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.531
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.532
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.532
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.532
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.532
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.532
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.532
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.533
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.533
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.533
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.533
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.533
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.534
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.534
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.534
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.534
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.535
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.535
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.535
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.535
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.535
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.536
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.536
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.536
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.536
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.536
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.537
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.537
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.537
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.537
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.537
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.537
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.538
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.538
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.538
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.538
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.538
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.539
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.539
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.539
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.539
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.539
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.540
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.540
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.540
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.540
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.540
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.541
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.541
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.541
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.541
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.541
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.541
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.542
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.542
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.542
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.542
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.542
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.543
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.543
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.543
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.543
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.543
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.544
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.544
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.544
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.544
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.544
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.545
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.545
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.545
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.545
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.545
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.546
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.546
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.546
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.546
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.547
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.547
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.547
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.547
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.548
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.548
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.548
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.548
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.549
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.549
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.549
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.549
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.549
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.549
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.550
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.550
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.550
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.550
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.550
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.550
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.551
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.551
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.551
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.551
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.551
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.551
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.551
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.551
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.551
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.552
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.552
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.552
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.552
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.552
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.552
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.552
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.553
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.553
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.553
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.553
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.553
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.553
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.553
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.553
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.554
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.554
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.554
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.554
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.554
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.554
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.554
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.554
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.554
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.555
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.555
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.555
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.555
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.555
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.555
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.556
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.556
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.556
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.556
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.556
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.556
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.556
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.557
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.557
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.557
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.557
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.557
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.557
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.557
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.557
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.557
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.558
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.558
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.558
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.558
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.558
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.559
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.559
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.559
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.559
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.559
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.559
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.560
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.560
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.560
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.560
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+
+# Created at 2020-03-27T06:04:21.560
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.561
+Unexpected IOException with stream: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+
+# Created at 2020-03-27T06:04:21.561
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.561
+Unexpected IOException with stream: 	at java.lang.Thread.run(Thread.java:748)
+
+# Created at 2020-03-27T06:04:21.561
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.561
+Unexpected IOException with stream: java.io.IOException: Server returned HTTP response code: 401 for URL: https://testapi.smarteinc.com/peapi/v1/enrich
+
+# Created at 2020-03-27T06:04:21.562
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.562
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+
+# Created at 2020-03-27T06:04:21.562
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.562
+Unexpected IOException with stream: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498)
+
+# Created at 2020-03-27T06:04:21.562
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.563
+Unexpected IOException with stream: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+
+# Created at 2020-03-27T06:04:21.563
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.563
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:75)
+
+# Created at 2020-03-27T06:04:21.563
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.563
+Unexpected IOException with stream: 	at com.smarteinc.utility.callAPISSL.call(callAPISSL.java:22)
+
+# Created at 2020-03-27T06:04:21.564
+Unexpected IOException with stream: 
+
+
+# Created at 2020-03-27T06:04:21.564
+Unexpected IOException with stream: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+
+# Created at 2020-03-27T06:04:21.564
+Unexpected IOException with stream: 
+
+
